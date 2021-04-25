@@ -1,6 +1,8 @@
 // InsertSort.cpp : 定义控制台应用程序的入口点。
 //
 //我是柏兰
+
+//注释一行代码——牟燕
 #include "stdafx.h"
 
 void insert_sort(int* p,int n)
