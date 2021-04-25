@@ -2,7 +2,7 @@
 //
 //我是柏兰
 
-//注释一行代码——牟燕
+//注释一行代码 —— 牟燕     
 #include "stdafx.h"
 
 void insert_sort(int* p,int n)
